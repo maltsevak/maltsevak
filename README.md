@@ -1,12 +1,8 @@
 <div id="header" align="center">
-  <h1>Всем привет! Меня зовут Кристина.</h1>
+  <h2>Всем привет! Меня зовут Кристина.</h2>
   <h3>Аналитик данных.</h3>
 </div>
-<a href="https://t.me/maltsevaku">
-  <img="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-
-
+<a href="https://t.me/maltsevaku" img="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
 ### Связаться со мной  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maltsevaku) 
@@ -14,9 +10,10 @@
 ___________
 
 ### Навыки:
-- Анализ продуктовых метрик с помощью SQL, Python. БД Clickhouse
-- Визуализация данных с BI-инструментами (SuperSet)
-- Опыт проведения А/В-тестов
+- Анализ продуктовых метрик с помощью SQL (JOIN, подзапросы, оконные функции), Clickhouse
+- Использую Python для анализа данных (pandas, numpy, matplotlib, seaborn), оформляю результаты в Jupyter Notebook
+- Для визуализации и создания дашбордов применяю SuperSet и Redash
+- На основании проведения A/B тестирования могу сделать выводы о продукте
 - Простейшие методы прогнозирование метрик, ML-алгоритмы
 - Построение ETL-пайплайна в Airflow, автоматизация отчетности и автоматический поиск аномалий с отправкой отчетов через Telegram Bot.
 
@@ -26,9 +23,12 @@ ___________
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-<img src="https://github.com/maltsevak/image_readme/blob/master/ClickHouse.png" alt="ClickHouse" height="20">
-<img src="https://github.com/maltsevak/image_readme/blob/master/redash.png" alt="redash" height="20">
-<img src="https://github.com/maltsevak/image_readme/blob/master/superset.png" alt="superset" height="20">
+
+<div id="header" align="center">
+  <img src="https://github.com/maltsevak/image_readme/blob/master/ClickHouse.png" alt="ClickHouse" height="30">
+  <img src="https://github.com/maltsevak/image_readme/blob/master/redash.png" alt="redash" height="30">
+  <img src="https://github.com/maltsevak/image_readme/blob/master/superset.png" alt="superset" height="30">
+</div>
 
 ### Мои проекты
 | Название | Результат | Стек |
