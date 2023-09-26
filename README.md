@@ -1,18 +1,10 @@
-<h1 align="center">Всем привет. Меня зовут Кристина.</h1>
+<h1 align="center">Всем привет! Меня зовут Кристина.</h1>
 <h2 align="center">Я начинающий аналитик данных.</h2>
-<h3 align="center"> <a href="https://t.me/maltsevaku">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</h4>
 
+### Связаться со мной 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maltsevaku)
-Связаться со мной 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-### Языки и инструменты:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristina-maltseva-a0b455263/)
+___________
 
 ### Навыки:
 - Анализ продуктовых метрик с помощью SQL (JOIN, подзапросы, оконные функции)
@@ -24,7 +16,25 @@
 - Автоматизация отчетности в Airflow, автоматический поиск аномалий с отправкой отчетов через Telegram Bot.
 - Работа с помощью Git
 
+### Языки и инструменты:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 ### Мои проекты
+| Название| Цель/результат |Стек
+|----------|:-----------------:|-------------:|
+| Анализ метрик | Оценить эффективность Флэшмоба. | Python, Jupyter Notebook, |
+с CausalImpact. | В течение проведения флэшмоба наблюдается | CausalImpact. |
+| | статистически значимое повышение четырех | |
+| | метрик из шести выбранных для анализа. | |
+|----------|:-----------------:|-------------:|
+| А/Б-тестирование. | А/А-тест, А/Б-тест, Анализ А/Б-теста | Python, Jupyter Notebook, |
+|  | по метрике линеаризованных лайков. | ClickHouse, статистические тесты stats |
+
+
 1. Анализ метрик с CausalImpact.
 Цель: Оценить эффективность Флэшмоба.
 В течение проведения флэшмоба наблюдается статистически значимое повышение четырех метрик из шести выбранных для анализа.
