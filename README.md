@@ -1,13 +1,14 @@
 <div id="header" align="center">
   <h1>Всем привет! Меня зовут Кристина.</h1>
-  <h3>Я аналитик данных.</h3>
-  <a href="https://t.me/maltsevaku">
-    <img="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <b href="[https://t.me/maltsevaku](https://www.linkedin.com/in/kristina-maltseva-a0b455263/)">
-    <img="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/>
-  </b>
+  <h3>Аналитик данных.</h3>
 </div>
+<a href="https://t.me/maltsevaku">
+  <img="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<b href="[https://t.me/maltsevaku](https://www.linkedin.com/in/kristina-maltseva-a0b455263/)">
+  <img="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/>
+</b>
+
 
 ### Связаться со мной  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maltsevaku)  
@@ -27,6 +28,9 @@ ___________
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![ClickHouse](https://github.com/maltsevak/image_readme/blob/master/ClickHouse.png)
+![redash](https://github.com/maltsevak/image_readme/blob/master/redash.png)
+![superset](https://github.com/maltsevak/image_readme/blob/master/superset.png)
 
 ### Мои проекты
 | Название | Результат | Стек |
