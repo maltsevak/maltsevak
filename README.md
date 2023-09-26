@@ -9,11 +9,6 @@
   </a>
 </div>
 
-### Связаться со мной  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/maltsevaku) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristina-maltseva-a0b455263/)
-___________
-
 ### Навыки:
 - Анализ продуктовых метрик с помощью SQL (JOIN, подзапросы, оконные функции), Clickhouse
 - Использую Python для анализа данных (pandas, numpy, matplotlib, seaborn), оформляю результаты в Jupyter Notebook
